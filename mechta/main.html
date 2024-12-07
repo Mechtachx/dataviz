@@ -2,16 +2,109 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>CSC_51052 - 2024 - Lab 08a</title>
+        <title>Spotify Top 50</title>
         <!-- https://d3js.org/ -->
         <script type="text/javascript" src="js/d3.v7.min.js"></script>
         <!-- https://github.com/bgrins/TinyColor -->
         <script type="text/javascript" src="js/spotify.js"></script>
+        <style>
+            /* Only one page, no scroll */
+            html, body {
+                height: 100%;
+                margin: 0;
+                overflow: hidden; /* forbid scroll */
+            }
+            .mainWrap {
+                height: 100%;
+                margin-right: -20px;
+                overflow: hidden;
+            }
+            .panel {
+                float: left;
+                height: 100%; /* fill screen */
+                width: 50%;
+                box-sizing: border-box;
+                background-clip: content-box;
+                padding: 32px; /* well i just wrote a margin randomly */
+            }
+            .left {
+                display: flex;
+                flex-direction: column;
+                gap: 32px;
+                height: 100%;
+            }
+            .left .mapPart {
+                flex-grow: 1; 
+                width: 100%;
+                border: 1px solid #ccc;
+                background-color: #f0f0f0;
+            }
+            .left .timeSeries {
+                height: 200px;
+                width: 100%;
+                border: 1px solid #ccc;
+                background-color: #f0f0f0;
+            }
+            .right {
+                display: flex;
+                flex-direction: column;
+                gap: 32px; 
+                height: 100%;
+            }
+            .right .controls {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                gap: 32px; 
+                margin: 0 32px; 
+            }
+            .right button, .right select {
+                width: 150px; 
+                height: 32px; 
+                font-size: 14px;
+                padding: 0;
+            }
+            .right svg {
+                flex-grow: 1; 
+                margin-right: 32px;
+                border: 1px solid #ccc;
+                background-color: #f0f0f0;
+            }
+            .iframe {
+                flex-grow: 1; 
+                margin-right: 32px;
+                border: 1px solid #ccc;
+                width: 100%;
+            }
+
+        </style>
     </head>
 
     <body onload="createViz()">
-        <div id="main">
-        </div>
+            <div class="mainWrap">
+                <!-- map and time? -->
+                <div class="panel left">
+                    <svg class="mapPart" id="svgMap"></svg>
+                    <svg class="timeSeries" id="svgTime"></svg>
+                </div>
+    
+                <!-- subpages -->
+                <div class="panel right">
+                    <button id="load-btn">Load Content</button>
+                    <!-- add subpage here ! -->
+                    <select id="select-option">
+                        <option value="contentTest.html">load single content</option>
+                        <option value="htmlTest.html">load html page</option>
+                        <option value="ex05.html">Page lab 5</option>
+                    </select>
+                    <iframe
+                        id="inlineFrameExample"
+                        title="Inline Frame Example"
+                        src="ex05.html">
+                    </iframe>
+                    <svg id="svgSubpage"></svg>
+                </div>
+            </div>
     </body>
 
 </html>
