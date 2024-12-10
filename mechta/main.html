@@ -16,7 +16,7 @@
             }
             .mainWrap {
                 height: 100%;
-                margin-right: -20px;
+                margin-right: 12px;
                 overflow: hidden;
             }
             .panel {
@@ -50,6 +50,7 @@
                 flex-direction: column;
                 gap: 32px; 
                 height: 100%;
+                
             }
             .right .controls {
                 display: flex;
@@ -64,17 +65,13 @@
                 font-size: 14px;
                 padding: 0;
             }
-            .right svg {
+            .right iframe {
                 flex-grow: 1; 
                 margin-right: 32px;
                 border: 1px solid #ccc;
-                background-color: #f0f0f0;
-            }
-            .iframe {
-                flex-grow: 1; 
-                margin-right: 32px;
-                border: 1px solid #ccc;
+                border-style: solid;
                 width: 100%;
+                height: 100%;
             }
 
         </style>
@@ -94,15 +91,14 @@
                     <!-- add subpage here ! -->
                     <select id="select-option">
                         <option value="contentTest.html">load single content</option>
-                        <option value="htmlTest.html">load html page</option>
-                        <option value="ex05.html">Page lab 5</option>
+                        <option value="ex01_full.html">load html page</option>
+                        <option value="ex04.html">Page lab 4</option>
                     </select>
                     <iframe
-                        id="inlineFrameExample"
+                        id="iframeDisplay"
                         title="Inline Frame Example"
-                        src="ex05.html">
+                        src="contentTest.html">
                     </iframe>
-                    <svg id="svgSubpage"></svg>
                 </div>
             </div>
     </body>
