@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>My Visualization Project</title>
+        <!-- https://d3js.org/ -->
+        <script type="text/javascript" src="js/d3.v7.min.js"></script>
+        <!-- Link to your custom JavaScript file for the visualization -->
+        <script type="text/javascript" src="js/collab.js"></script>
+        <style>
+
+body {
+    background-color: black;
+    color: #888; 
+    margin: 0;
+    padding: 0;
+}
+
+svg {
+    display: block;
+    margin: auto;
+    font-family: sans-serif;
+    font-size: 10px;
+}
+
+/* General styling for visual elements */
+.visualization-element {
+    stroke-width: 1.2px;
+    stroke: #666;
+    fill: none;
+}
+        </style>
+    </head>
+
+    <body onload="initializeViz();">
+        <div id="visualization-container"></div>
+    </body>
+
+</html>
