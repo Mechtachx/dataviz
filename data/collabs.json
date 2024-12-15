@@ -1,0 +1,1829 @@
+[
+  {
+    "spotify_id": "2plbrEY59IikOBgBGLjaoe",
+    "name": "Die With A Smile",
+    "artists": "Lady Gaga",
+    "collab": "Bruno Mars",
+    "snapshot_date": "2024-12-06"
+  },
+  {
+    "spotify_id": "5vNRhkKd0yEAg8suGBpjeY",
+    "name": "APT.",
+    "artists": "ROSÉ",
+    "collab": "Bruno Mars",
+    "snapshot_date": "2024-12-06"
+  },
+  {
+    "spotify_id": "2CGNAOSuO1MEFCbBRgUzjd",
+    "name": "luther (with sza)",
+    "artists": "Kendrick Lamar",
+    "collab": "SZA",
+    "snapshot_date": "2024-12-06"
+  },
+  {
+    "spotify_id": "4lriIG2vNqwDWzOj2I9rtj",
+    "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+    "artists": "Stromae",
+    "collab": "Pomme",
+    "snapshot_date": "2024-12-06"
+  },
+  {
+    "spotify_id": "4lriIG2vNqwDWzOj2I9rtj",
+    "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+    "artists": "Stromae",
+    "collab": "Arcane",
+    "snapshot_date": "2024-12-06"
+  },
+  {
+    "spotify_id": "0aB0v4027ukVziUGwVGYpG",
+    "name": "tv off (feat. lefty gunplay)",
+    "artists": "Kendrick Lamar",
+    "collab": "Lefty Gunplay",
+    "snapshot_date": "2024-12-06"
+  },
+  {
+    "spotify_id": "1Es7AUAhQvapIcoh3qMKDL",
+    "name": "Timeless (with Playboi Carti)",
+    "artists": "The Weeknd",
+    "collab": "Playboi Carti",
+    "snapshot_date": "2024-12-06"
+  },
+  {
+    "spotify_id": "1cOboCuWYI2osTOfolMRS6",
+    "name": "Tu Boda",
+    "artists": "Oscar Maydon",
+    "collab": "Fuerza Regida",
+    "snapshot_date": "2024-12-06"
+  },
+  {
+    "spotify_id": "7G7mSV4BebkoHWwKTDvXu9",
+    "name": "Winter Ahead (with PARK HYO SHIN)",
+    "artists": "V",
+    "collab": "Park Hyo Shin",
+    "snapshot_date": "2024-12-06"
+  },
+  {
+    "spotify_id": "0l0vcZMU7AOeQmUIREoI2U",
+    "name": "Qué Pasaría...",
+    "artists": "Rauw Alejandro",
+    "collab": "Bad Bunny",
+    "snapshot_date": "2024-12-06"
+  },
+  {
+    "spotify_id": "1YYfyJ2yCvGFCxwjsIqEK9",
+    "name": "Khé?",
+    "artists": "Rauw Alejandro",
+    "collab": "Romeo Santos",
+    "snapshot_date": "2024-12-06"
+  },
+  {
+    "spotify_id": "7CyPwkp0oE8Ro9Dd5CUDjW",
+    "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+    "artists": "The Weeknd",
+    "collab": "JENNIE",
+    "snapshot_date": "2024-12-06"
+  },
+  {
+    "spotify_id": "7CyPwkp0oE8Ro9Dd5CUDjW",
+    "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+    "artists": "The Weeknd",
+    "collab": "Lily-Rose Depp",
+    "snapshot_date": "2024-12-06"
+  },
+  {
+    "spotify_id": "7KA4W4McWYRpgf0fWsJZWB",
+    "name": "See You Again (feat. Kali Uchis)",
+    "artists": "Tyler The Creator",
+    "collab": "Kali Uchis",
+    "snapshot_date": "2024-12-06"
+  },
+  {
+    "spotify_id": "0qeIFEGRQqHoaJtLCl0U73",
+    "name": "DEGENERE 👑 (feat. benny blanco)",
+    "artists": "Myke Towers",
+    "collab": "benny blanco",
+    "snapshot_date": "2024-12-06"
+  },
+  {
+    "spotify_id": "5S8VwnB4sLi6W0lYTWYylu",
+    "name": "hey now (feat. dody6)",
+    "artists": "Kendrick Lamar",
+    "collab": "Dody6",
+    "snapshot_date": "2024-11-27"
+  },
+  {
+    "spotify_id": "4K1Pg0FLno1ltzX3jeqT83",
+    "name": "dodger blue (feat. wallie the sensei, siete7x, roddy ricch)",
+    "artists": "Kendrick Lamar",
+    "collab": "Wallie the Sensei",
+    "snapshot_date": "2024-11-27"
+  },
+  {
+    "spotify_id": "4K1Pg0FLno1ltzX3jeqT83",
+    "name": "dodger blue (feat. wallie the sensei, siete7x, roddy ricch)",
+    "artists": "Kendrick Lamar",
+    "collab": "Siete7x",
+    "snapshot_date": "2024-11-27"
+  },
+  {
+    "spotify_id": "4K1Pg0FLno1ltzX3jeqT83",
+    "name": "dodger blue (feat. wallie the sensei, siete7x, roddy ricch)",
+    "artists": "Kendrick Lamar",
+    "collab": "Roddy Ricch",
+    "snapshot_date": "2024-11-27"
+  },
+  {
+    "spotify_id": "2Uts1QFB4u2YNIMiqcb4de",
+    "name": "peekaboo (feat. azchike)",
+    "artists": "Kendrick Lamar",
+    "collab": "AzChike",
+    "snapshot_date": "2024-11-27"
+  },
+  {
+    "spotify_id": "0wgOhYnqZKjOHr6bmdz0aN",
+    "name": "gloria (with sza)",
+    "artists": "Kendrick Lamar",
+    "collab": "SZA",
+    "snapshot_date": "2024-11-27"
+  },
+  {
+    "spotify_id": "3aZptNYC6Z1YoumeqZcDcQ",
+    "name": "gnx (feat. hitta j3, youngthreat, peysoh)",
+    "artists": "Kendrick Lamar",
+    "collab": "Hitta J3",
+    "snapshot_date": "2024-11-27"
+  },
+  {
+    "spotify_id": "3aZptNYC6Z1YoumeqZcDcQ",
+    "name": "gnx (feat. hitta j3, youngthreat, peysoh)",
+    "artists": "Kendrick Lamar",
+    "collab": "YoungThreat",
+    "snapshot_date": "2024-11-27"
+  },
+  {
+    "spotify_id": "3aZptNYC6Z1YoumeqZcDcQ",
+    "name": "gnx (feat. hitta j3, youngthreat, peysoh)",
+    "artists": "Kendrick Lamar",
+    "collab": "Peysoh",
+    "snapshot_date": "2024-11-27"
+  },
+  {
+    "spotify_id": "3tFed7YsjGnIfxeLEQwx3R",
+    "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
+    "artists": "Tyler The Creator",
+    "collab": "GloRilla",
+    "snapshot_date": "2024-11-27"
+  },
+  {
+    "spotify_id": "3tFed7YsjGnIfxeLEQwx3R",
+    "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
+    "artists": "Tyler The Creator",
+    "collab": "Sexyy Red",
+    "snapshot_date": "2024-11-27"
+  },
+  {
+    "spotify_id": "3tFed7YsjGnIfxeLEQwx3R",
+    "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
+    "artists": "Tyler The Creator",
+    "collab": "Lil Wayne",
+    "snapshot_date": "2024-11-27"
+  },
+  {
+    "spotify_id": "6jbYpRPTEFl1HFKHk1IC0m",
+    "name": "Like Him (feat. Lola Young)",
+    "artists": "Tyler The Creator",
+    "collab": "Lola Young",
+    "snapshot_date": "2024-11-27"
+  },
+  {
+    "spotify_id": "6CG7UePo6mydQbNr4tlkp8",
+    "name": "hey now (feat. dody6)",
+    "artists": "Kendrick Lamar",
+    "collab": "Dody6",
+    "snapshot_date": "2024-11-24"
+  },
+  {
+    "spotify_id": "75bsrBtmM57lhi55yOfzBL",
+    "name": "tv off (feat. lefty gunplay)",
+    "artists": "Kendrick Lamar",
+    "collab": "Lefty Gunplay",
+    "snapshot_date": "2024-11-24"
+  },
+  {
+    "spotify_id": "442ifpYGFKfyz8PohOQEVd",
+    "name": "dodger blue (feat. wallie the sensei, roddy ricch, siete7x)",
+    "artists": "Kendrick Lamar",
+    "collab": "Wallie the Sensei",
+    "snapshot_date": "2024-11-24"
+  },
+  {
+    "spotify_id": "442ifpYGFKfyz8PohOQEVd",
+    "name": "dodger blue (feat. wallie the sensei, roddy ricch, siete7x)",
+    "artists": "Kendrick Lamar",
+    "collab": "Roddy Ricch",
+    "snapshot_date": "2024-11-24"
+  },
+  {
+    "spotify_id": "442ifpYGFKfyz8PohOQEVd",
+    "name": "dodger blue (feat. wallie the sensei, roddy ricch, siete7x)",
+    "artists": "Kendrick Lamar",
+    "collab": "Siete7x",
+    "snapshot_date": "2024-11-24"
+  },
+  {
+    "spotify_id": "10tTkKxYPgeYkuMwGnqRND",
+    "name": "peekaboo (feat. azchike)",
+    "artists": "Kendrick Lamar",
+    "collab": "AzChike",
+    "snapshot_date": "2024-11-24"
+  },
+  {
+    "spotify_id": "70cI4Pl8YjQXmIfpLeqm76",
+    "name": "gnx (feat. hitta j3, youngthreat, peysoh)",
+    "artists": "Kendrick Lamar",
+    "collab": "Hitta J3",
+    "snapshot_date": "2024-11-24"
+  },
+  {
+    "spotify_id": "70cI4Pl8YjQXmIfpLeqm76",
+    "name": "gnx (feat. hitta j3, youngthreat, peysoh)",
+    "artists": "Kendrick Lamar",
+    "collab": "YoungThreat",
+    "snapshot_date": "2024-11-24"
+  },
+  {
+    "spotify_id": "70cI4Pl8YjQXmIfpLeqm76",
+    "name": "gnx (feat. hitta j3, youngthreat, peysoh)",
+    "artists": "Kendrick Lamar",
+    "collab": "Peysoh",
+    "snapshot_date": "2024-11-24"
+  },
+  {
+    "spotify_id": "5lKFO0PrOC9jmOlPEdjHsL",
+    "name": "DOS DÍAS",
+    "artists": "Tito Double P",
+    "collab": "Peso Pluma",
+    "snapshot_date": "2024-11-23"
+  },
+  {
+    "spotify_id": "3mg9jYNC1NihbthlglzrWP",
+    "name": "+57",
+    "artists": "KAROL G",
+    "collab": "Feid",
+    "snapshot_date": "2024-11-22"
+  },
+  {
+    "spotify_id": "3mg9jYNC1NihbthlglzrWP",
+    "name": "+57",
+    "artists": "KAROL G",
+    "collab": "DFZM",
+    "snapshot_date": "2024-11-22"
+  },
+  {
+    "spotify_id": "3mg9jYNC1NihbthlglzrWP",
+    "name": "+57",
+    "artists": "KAROL G",
+    "collab": "Ovy On The Drums",
+    "snapshot_date": "2024-11-22"
+  },
+  {
+    "spotify_id": "3mg9jYNC1NihbthlglzrWP",
+    "name": "+57",
+    "artists": "KAROL G",
+    "collab": "J Balvin",
+    "snapshot_date": "2024-11-22"
+  },
+  {
+    "spotify_id": "3mg9jYNC1NihbthlglzrWP",
+    "name": "+57",
+    "artists": "KAROL G",
+    "collab": "Maluma",
+    "snapshot_date": "2024-11-22"
+  },
+  {
+    "spotify_id": "3mg9jYNC1NihbthlglzrWP",
+    "name": "+57",
+    "artists": "KAROL G",
+    "collab": "Ryan Castro",
+    "snapshot_date": "2024-11-22"
+  },
+  {
+    "spotify_id": "3mg9jYNC1NihbthlglzrWP",
+    "name": "+57",
+    "artists": "KAROL G",
+    "collab": "Blessd",
+    "snapshot_date": "2024-11-22"
+  },
+  {
+    "spotify_id": "1QoyuMHNBe7lg3YW4Qtll4",
+    "name": "St. Chroma (feat. Daniel Caesar)",
+    "artists": "Tyler The Creator",
+    "collab": "Daniel Caesar",
+    "snapshot_date": "2024-11-22"
+  },
+  {
+    "spotify_id": "0Sr7ssScx54yxdM2ols7nW",
+    "name": "Q U E V A S H A C E R H O Y ?",
+    "artists": "Omar Courtz",
+    "collab": "De La Rose",
+    "snapshot_date": "2024-11-21"
+  },
+  {
+    "spotify_id": "4OLT65TRsOx3Iv1TlCcQVb",
+    "name": "Presidente",
+    "artists": "Gabito Ballesteros",
+    "collab": "Natanael Cano",
+    "snapshot_date": "2024-11-19"
+  },
+  {
+    "spotify_id": "4OLT65TRsOx3Iv1TlCcQVb",
+    "name": "Presidente",
+    "artists": "Gabito Ballesteros",
+    "collab": "Luis R Conriquez",
+    "snapshot_date": "2024-11-19"
+  },
+  {
+    "spotify_id": "4OLT65TRsOx3Iv1TlCcQVb",
+    "name": "Presidente",
+    "artists": "Gabito Ballesteros",
+    "collab": "Neton Vega",
+    "snapshot_date": "2024-11-19"
+  },
+  {
+    "spotify_id": "42VsgItocQwOQC3XWZ8JNA",
+    "name": "FE!N (feat. Playboi Carti)",
+    "artists": "Travis Scott",
+    "collab": "Playboi Carti",
+    "snapshot_date": "2024-11-19"
+  },
+  {
+    "spotify_id": "1uFW6czrHk5PsK3s6gOI7C",
+    "name": "Se Fue",
+    "artists": "Rauw Alejandro",
+    "collab": "Laura Pausini",
+    "snapshot_date": "2024-11-18"
+  },
+  {
+    "spotify_id": "0xGQTpN4ESETtl1Sp6rzd2",
+    "name": "São Paulo (feat. Anitta)",
+    "artists": "The Weeknd",
+    "collab": "Anitta",
+    "snapshot_date": "2024-11-16"
+  },
+  {
+    "spotify_id": "6s1kzj4EbhFLXbuAGJbhbn",
+    "name": "Barbie",
+    "artists": "MC Tuto",
+    "collab": "DJ Glenner",
+    "snapshot_date": "2024-11-13"
+  },
+  {
+    "spotify_id": "2esZG2XFtuoWWA9AfDvSxy",
+    "name": "Gata Only",
+    "artists": "FloyyMenor",
+    "collab": "Cris Mj",
+    "snapshot_date": "2024-11-12"
+  },
+  {
+    "spotify_id": "5IZXB5IKAD2qlvTPJYDCFB",
+    "name": "I Had Some Help (Feat. Morgan Wallen)",
+    "artists": "Post Malone",
+    "collab": "Morgan Wallen",
+    "snapshot_date": "2024-11-11"
+  },
+  {
+    "spotify_id": "0VaeksJaXy5R1nvcTMh3Xk",
+    "name": "Darling, I (feat. Teezo Touchdown)",
+    "artists": "Tyler The Creator",
+    "collab": "Teezo Touchdown",
+    "snapshot_date": "2024-11-10"
+  },
+  {
+    "spotify_id": "2aYZaN5SmkRDLsrrV8GkBQ",
+    "name": "LA PATRULLA",
+    "artists": "Peso Pluma",
+    "collab": "Neton Vega",
+    "snapshot_date": "2024-11-05"
+  },
+  {
+    "spotify_id": "6HrALJOMsfPCCbUo5cJCON",
+    "name": "ESCAPATE",
+    "artists": "Tito Double P",
+    "collab": "Chino Pacas",
+    "snapshot_date": "2024-11-05"
+  },
+  {
+    "spotify_id": "2aYHxnMF2umAavtgBvmkY1",
+    "name": "Thought I Was Dead (feat. ScHoolboy Q & Santigold)",
+    "artists": "Tyler The Creator",
+    "collab": "ScHoolboy Q",
+    "snapshot_date": "2024-11-03"
+  },
+  {
+    "spotify_id": "2aYHxnMF2umAavtgBvmkY1",
+    "name": "Thought I Was Dead (feat. ScHoolboy Q & Santigold)",
+    "artists": "Tyler The Creator",
+    "collab": "Santigold",
+    "snapshot_date": "2024-11-03"
+  },
+  {
+    "spotify_id": "0xxZY5C9xxij3D1HkzbnfC",
+    "name": "Monster Mash",
+    "artists": "Bobby \"Boris\" Pickett",
+    "collab": "The Crypt-Kickers",
+    "snapshot_date": "2024-11-02"
+  },
+  {
+    "spotify_id": "4BSR9I4ExlCJdXJo2GpBD5",
+    "name": "Take Your Mask Off (feat. Daniel Caesar & LaToiya Williams)",
+    "artists": "Tyler The Creator",
+    "collab": "Daniel Caesar",
+    "snapshot_date": "2024-11-01"
+  },
+  {
+    "spotify_id": "4BSR9I4ExlCJdXJo2GpBD5",
+    "name": "Take Your Mask Off (feat. Daniel Caesar & LaToiya Williams)",
+    "artists": "Tyler The Creator",
+    "collab": "LaToiya Williams",
+    "snapshot_date": "2024-11-01"
+  },
+  {
+    "spotify_id": "35D1RA5uVFVhMc1qX80TaQ",
+    "name": "Balloon (feat. Doechii)",
+    "artists": "Tyler The Creator",
+    "collab": "Doechii",
+    "snapshot_date": "2024-11-01"
+  },
+  {
+    "spotify_id": "0IsIY8pfu1yaGkPUD7pkDx",
+    "name": "Guess featuring billie eilish",
+    "artists": "Charli xcx",
+    "collab": "Billie Eilish",
+    "snapshot_date": "2024-10-29"
+  },
+  {
+    "spotify_id": "2HRgqmZQC0MC7GeNuDIXHN",
+    "name": "Seven (feat. Latto) (Explicit Ver.)",
+    "artists": "Jung Kook",
+    "collab": "Latto",
+    "snapshot_date": "2024-10-26"
+  },
+  {
+    "spotify_id": "6PhRhocBXP4y7NpciGmzra",
+    "name": "Después De La 1",
+    "artists": "Cris Mj",
+    "collab": "FloyyMenor",
+    "snapshot_date": "2024-10-21"
+  },
+  {
+    "spotify_id": "6PhRhocBXP4y7NpciGmzra",
+    "name": "Después De La 1",
+    "artists": "Cris Mj",
+    "collab": "LOUKI",
+    "snapshot_date": "2024-10-21"
+  },
+  {
+    "spotify_id": "3nQ24dxqvxZEVwlHTeuLz0",
+    "name": "Sympathy is a knife featuring ariana grande",
+    "artists": "Charli xcx",
+    "collab": "Ariana Grande",
+    "snapshot_date": "2024-10-14"
+  },
+  {
+    "spotify_id": "7bywjHOc0wSjGGbj04XbVi",
+    "name": "LUNA",
+    "artists": "Feid",
+    "collab": "ATL Jacob",
+    "snapshot_date": "2024-10-14"
+  },
+  {
+    "spotify_id": "3WOhcATHxK2SLNeP5W3v1v",
+    "name": "Guess featuring billie eilish",
+    "artists": "Charli xcx",
+    "collab": "Billie Eilish",
+    "snapshot_date": "2024-10-12"
+  },
+  {
+    "spotify_id": "7qbJ4Dh8xuYUFdAWL8SFPK",
+    "name": "Guess featuring billie eilish",
+    "artists": "Charli xcx",
+    "collab": "Billie Eilish",
+    "snapshot_date": "2024-10-11"
+  },
+  {
+    "spotify_id": "5496lks6V3fh1mZAB6IAap",
+    "name": "Alibi (with Pabllo Vittar & Yseult)",
+    "artists": "Sevdaliza",
+    "collab": "Pabllo Vittar",
+    "snapshot_date": "2024-10-07"
+  },
+  {
+    "spotify_id": "5496lks6V3fh1mZAB6IAap",
+    "name": "Alibi (with Pabllo Vittar & Yseult)",
+    "artists": "Sevdaliza",
+    "collab": "Yseult",
+    "snapshot_date": "2024-10-07"
+  },
+  {
+    "spotify_id": "0OA00aPt3BV10qeMIs3meW",
+    "name": "Big Dawgs",
+    "artists": "Hanumankind",
+    "collab": "Kalmi",
+    "snapshot_date": "2024-10-04"
+  },
+  {
+    "spotify_id": "7MXVkk9YMctZqd1Srtv4MB",
+    "name": "Starboy",
+    "artists": "The Weeknd",
+    "collab": "Daft Punk",
+    "snapshot_date": "2024-10-01"
+  },
+  {
+    "spotify_id": "7ov3TDp5D00Rnu5R1viX4w",
+    "name": "New Woman (feat. ROSALÍA)",
+    "artists": "LISA",
+    "collab": "ROSALÍA",
+    "snapshot_date": "2024-09-24"
+  },
+  {
+    "spotify_id": "1BJJbSX6muJVF2AK7uH1x4",
+    "name": "Move",
+    "artists": "Adam Port",
+    "collab": "Stryv",
+    "snapshot_date": "2024-09-23"
+  },
+  {
+    "spotify_id": "1BJJbSX6muJVF2AK7uH1x4",
+    "name": "Move",
+    "artists": "Adam Port",
+    "collab": "Keinemusik",
+    "snapshot_date": "2024-09-23"
+  },
+  {
+    "spotify_id": "1BJJbSX6muJVF2AK7uH1x4",
+    "name": "Move",
+    "artists": "Adam Port",
+    "collab": "Orso",
+    "snapshot_date": "2024-09-23"
+  },
+  {
+    "spotify_id": "1BJJbSX6muJVF2AK7uH1x4",
+    "name": "Move",
+    "artists": "Adam Port",
+    "collab": "Malachiii",
+    "snapshot_date": "2024-09-23"
+  },
+  {
+    "spotify_id": "2ZqTbIID9vFPTXaGyzbb4q",
+    "name": "Neva Play (feat. RM of BTS)",
+    "artists": "Megan Thee Stallion",
+    "collab": "RM",
+    "snapshot_date": "2024-09-19"
+  },
+  {
+    "spotify_id": "2gmd7lY3QSzLh0xIY4cRvi",
+    "name": "SE ME OLVIDA",
+    "artists": "Maisak",
+    "collab": "Feid",
+    "snapshot_date": "2024-09-11"
+  },
+  {
+    "spotify_id": "331l3xABO0HMr1Kkyh2LZq",
+    "name": "I Don't Wanna Wait",
+    "artists": "David Guetta",
+    "collab": "OneRepublic",
+    "snapshot_date": "2024-09-07"
+  },
+  {
+    "spotify_id": "2OzhQlSqBEmt7hmkYxfT6m",
+    "name": "Fortnight (feat. Post Malone)",
+    "artists": "Taylor Swift",
+    "collab": "Post Malone",
+    "snapshot_date": "2024-08-23"
+  },
+  {
+    "spotify_id": "2btNsI4OvcVl7SAHQQDHFB",
+    "name": "Mirame",
+    "artists": "Blessd",
+    "collab": "Ovy On The Drums",
+    "snapshot_date": "2024-08-23"
+  },
+  {
+    "spotify_id": "6StwwqB84sJeLr7tZDTxEX",
+    "name": "Guy For That (Feat. Luke Combs)",
+    "artists": "Post Malone",
+    "collab": "Luke Combs",
+    "snapshot_date": "2024-08-18"
+  },
+  {
+    "spotify_id": "2CIXO1jQbrV1hlfI7FUKld",
+    "name": "Wrong Ones (Feat. Tim McGraw)",
+    "artists": "Post Malone",
+    "collab": "Tim McGraw",
+    "snapshot_date": "2024-08-17"
+  },
+  {
+    "spotify_id": "7221xIgOnuakPdLqT0F3nP",
+    "name": "I Had Some Help (Feat. Morgan Wallen)",
+    "artists": "Post Malone",
+    "collab": "Morgan Wallen",
+    "snapshot_date": "2024-08-16"
+  },
+  {
+    "spotify_id": "3nqrrvkhUPUDhlycLZA6bl",
+    "name": "Santa",
+    "artists": "Rvssian",
+    "collab": "Rauw Alejandro",
+    "snapshot_date": "2024-08-11"
+  },
+  {
+    "spotify_id": "3nqrrvkhUPUDhlycLZA6bl",
+    "name": "Santa",
+    "artists": "Rvssian",
+    "collab": "Ayra Starr",
+    "snapshot_date": "2024-08-11"
+  },
+  {
+    "spotify_id": "1C84d9abZVKWHT2YYpoean",
+    "name": "Si No Quieres No",
+    "artists": "Luis R Conriquez",
+    "collab": "Neton Vega",
+    "snapshot_date": "2024-08-11"
+  },
+  {
+    "spotify_id": "106vWgOc5xlj05wewZ2V4u",
+    "name": "FIELD TRIP",
+    "artists": "¥$",
+    "collab": "Kanye West",
+    "snapshot_date": "2024-08-10"
+  },
+  {
+    "spotify_id": "106vWgOc5xlj05wewZ2V4u",
+    "name": "FIELD TRIP",
+    "artists": "¥$",
+    "collab": "Ty Dolla $ign",
+    "snapshot_date": "2024-08-10"
+  },
+  {
+    "spotify_id": "6a9Z1jUms915w4O7N1PxjY",
+    "name": "Santa",
+    "artists": "Rvssian",
+    "collab": "Rauw Alejandro",
+    "snapshot_date": "2024-08-10"
+  },
+  {
+    "spotify_id": "6a9Z1jUms915w4O7N1PxjY",
+    "name": "Santa",
+    "artists": "Rvssian",
+    "collab": "Ayra Starr",
+    "snapshot_date": "2024-08-10"
+  },
+  {
+    "spotify_id": "6XjDF6nds4DE2BBbagZol6",
+    "name": "Gata Only",
+    "artists": "FloyyMenor",
+    "collab": "Cris Mj",
+    "snapshot_date": "2024-08-09"
+  },
+  {
+    "spotify_id": "5b3XJ1pjrHO5JtY2PcTjnI",
+    "name": "Mamushi (feat. Yuki Chiba)",
+    "artists": "Megan Thee Stallion",
+    "collab": "千葉雄喜",
+    "snapshot_date": "2024-08-06"
+  },
+  {
+    "spotify_id": "1AIbZL0CDlzTJ1Bv4kBP4G",
+    "name": "SLIDE",
+    "artists": "¥$",
+    "collab": "Kanye West",
+    "snapshot_date": "2024-08-04"
+  },
+  {
+    "spotify_id": "1AIbZL0CDlzTJ1Bv4kBP4G",
+    "name": "SLIDE",
+    "artists": "¥$",
+    "collab": "Ty Dolla $ign",
+    "snapshot_date": "2024-08-04"
+  },
+  {
+    "spotify_id": "57lsYy0OZLNb5OQ7fEa3Hs",
+    "name": "Did It First (with Central Cee)",
+    "artists": "Ice Spice",
+    "collab": "Central Cee",
+    "snapshot_date": "2024-08-03"
+  },
+  {
+    "spotify_id": "5crxqqibcvoOQQgg4HjAFQ",
+    "name": "Guy For That (Feat. Luke Combs)",
+    "artists": "Post Malone",
+    "collab": "Luke Combs",
+    "snapshot_date": "2024-08-02"
+  },
+  {
+    "spotify_id": "7iabz12vAuVQYyekFIWJxD",
+    "name": "BAND4BAND (feat. Lil Baby)",
+    "artists": "Central Cee",
+    "collab": "Lil Baby",
+    "snapshot_date": "2024-08-01"
+  },
+  {
+    "spotify_id": "5RqSsdzTNPX1uzkmlHCFvK",
+    "name": "QLONA",
+    "artists": "KAROL G",
+    "collab": "Peso Pluma",
+    "snapshot_date": "2024-07-28"
+  },
+  {
+    "spotify_id": "22DH8NChecsgPxDjA4pqer",
+    "name": "Tough",
+    "artists": "Quavo",
+    "collab": "Lana Del Rey",
+    "snapshot_date": "2024-07-24"
+  },
+  {
+    "spotify_id": "1agDCV4zQqaFwJQNsTgmL1",
+    "name": "Smeraldo Garden Marching Band (feat. Loco)",
+    "artists": "Jimin",
+    "collab": "Loco",
+    "snapshot_date": "2024-07-23"
+  },
+  {
+    "spotify_id": "1kPhV0KQui1phEpjnWIqUN",
+    "name": "Smeraldo Garden Marching Band (feat. Loco)",
+    "artists": "Jimin",
+    "collab": "Loco",
+    "snapshot_date": "2024-07-19"
+  },
+  {
+    "spotify_id": "0LZy30mVmxqUpdQmaXKXBd",
+    "name": "ADIVINO",
+    "artists": "Myke Towers",
+    "collab": "Bad Bunny",
+    "snapshot_date": "2024-07-18"
+  },
+  {
+    "spotify_id": "7I3RalBqE7ZE0RSxgGlGlm",
+    "name": "Habits",
+    "artists": "Eminem",
+    "collab": "White Gold",
+    "snapshot_date": "2024-07-16"
+  },
+  {
+    "spotify_id": "5In8B6Om5OKrhwBMB4tXSi",
+    "name": "Fuel",
+    "artists": "Eminem",
+    "collab": "JID",
+    "snapshot_date": "2024-07-16"
+  },
+  {
+    "spotify_id": "1ymWIr4E5x6xORlDO0bXlP",
+    "name": "Tobey (feat. Big Sean and BabyTron)",
+    "artists": "Eminem",
+    "collab": "Big Sean",
+    "snapshot_date": "2024-07-16"
+  },
+  {
+    "spotify_id": "1ymWIr4E5x6xORlDO0bXlP",
+    "name": "Tobey (feat. Big Sean and BabyTron)",
+    "artists": "Eminem",
+    "collab": "BabyTron",
+    "snapshot_date": "2024-07-16"
+  },
+  {
+    "spotify_id": "79IBoMfFn67UI15YkP1FSp",
+    "name": "EL RITMO QUE NOS UNE - feat. Selección Colombia",
+    "artists": "Ryan Castro",
+    "collab": "SOG",
+    "snapshot_date": "2024-07-15"
+  },
+  {
+    "spotify_id": "50No7LiVffAJCWIChZodmU",
+    "name": "Lucifer",
+    "artists": "Eminem",
+    "collab": "Sly Pyper",
+    "snapshot_date": "2024-07-14"
+  },
+  {
+    "spotify_id": "0bBnrokPXtfwXQarqCu1Gz",
+    "name": "Road Rage",
+    "artists": "Eminem",
+    "collab": "Dem Jointz",
+    "snapshot_date": "2024-07-14"
+  },
+  {
+    "spotify_id": "0bBnrokPXtfwXQarqCu1Gz",
+    "name": "Road Rage",
+    "artists": "Eminem",
+    "collab": "Sly Pyper",
+    "snapshot_date": "2024-07-14"
+  },
+  {
+    "spotify_id": "4HMUrFl8y6rQCzEbaGEkcj",
+    "name": "Somebody Save Me",
+    "artists": "Eminem",
+    "collab": "Jelly Roll",
+    "snapshot_date": "2024-07-14"
+  },
+  {
+    "spotify_id": "2tudvzsrR56uom6smgOcSf",
+    "name": "Like That",
+    "artists": "Future",
+    "collab": "Metro Boomin",
+    "snapshot_date": "2024-07-12"
+  },
+  {
+    "spotify_id": "2tudvzsrR56uom6smgOcSf",
+    "name": "Like That",
+    "artists": "Future",
+    "collab": "Kendrick Lamar",
+    "snapshot_date": "2024-07-12"
+  },
+  {
+    "spotify_id": "4KWeGKChLKcnZsj3sIOSkW",
+    "name": "Tobey (feat. Big Sean and BabyTron)",
+    "artists": "Eminem",
+    "collab": "Big Sean",
+    "snapshot_date": "2024-07-04"
+  },
+  {
+    "spotify_id": "4KWeGKChLKcnZsj3sIOSkW",
+    "name": "Tobey (feat. Big Sean and BabyTron)",
+    "artists": "Eminem",
+    "collab": "BabyTron",
+    "snapshot_date": "2024-07-04"
+  },
+  {
+    "spotify_id": "5ZLL6wYXeqg0k35ZkDRfhZ",
+    "name": "Pour Me A Drink (Feat. Blake Shelton)",
+    "artists": "Post Malone",
+    "collab": "Blake Shelton",
+    "snapshot_date": "2024-06-29"
+  },
+  {
+    "spotify_id": "0hhzNPE68LWLfgZwdpxVdR",
+    "name": "us. (feat. Taylor Swift)",
+    "artists": "Gracie Abrams",
+    "collab": "Taylor Swift",
+    "snapshot_date": "2024-06-26"
+  },
+  {
+    "spotify_id": "2YFhqZvhTpyK13gKXMKV7R",
+    "name": "The girl, so confusing version with lorde",
+    "artists": "Charli xcx",
+    "collab": "Lorde",
+    "snapshot_date": "2024-06-22"
+  },
+  {
+    "spotify_id": "33Nj9AdncSmHbCN3QeSZTL",
+    "name": "Volver Al Futuro",
+    "artists": "Oscar Maydon",
+    "collab": "Junior H",
+    "snapshot_date": "2024-06-19"
+  },
+  {
+    "spotify_id": "48lxT5qJF0yYyf2z4wB4xW",
+    "name": "Pedro",
+    "artists": "Jaxomy",
+    "collab": "Agatino Romero",
+    "snapshot_date": "2024-06-09"
+  },
+  {
+    "spotify_id": "48lxT5qJF0yYyf2z4wB4xW",
+    "name": "Pedro",
+    "artists": "Jaxomy",
+    "collab": "Raffaella Carrà",
+    "snapshot_date": "2024-06-09"
+  },
+  {
+    "spotify_id": "5LhI8m7n8xlQmNe3b7Rwis",
+    "name": "Madonna",
+    "artists": "Natanael Cano",
+    "collab": "Oscar Maydon",
+    "snapshot_date": "2024-06-03"
+  },
+  {
+    "spotify_id": "6RjSXi9cPGroetXeNsWFGL",
+    "name": "MTG QUEM NÃO QUER SOU EU",
+    "artists": "DJ TOPO",
+    "collab": "Seu Jorge",
+    "snapshot_date": "2024-06-02"
+  },
+  {
+    "spotify_id": "6RjSXi9cPGroetXeNsWFGL",
+    "name": "MTG QUEM NÃO QUER SOU EU",
+    "artists": "DJ TOPO",
+    "collab": "Mc Leozin",
+    "snapshot_date": "2024-06-02"
+  },
+  {
+    "spotify_id": "6RjSXi9cPGroetXeNsWFGL",
+    "name": "MTG QUEM NÃO QUER SOU EU",
+    "artists": "DJ TOPO",
+    "collab": "MC G15",
+    "snapshot_date": "2024-06-02"
+  },
+  {
+    "spotify_id": "5bi0gh89wRuH2OgjdAKFsb",
+    "name": "Santa",
+    "artists": "Rvssian",
+    "collab": "Rauw Alejandro",
+    "snapshot_date": "2024-05-20"
+  },
+  {
+    "spotify_id": "5bi0gh89wRuH2OgjdAKFsb",
+    "name": "Santa",
+    "artists": "Rvssian",
+    "collab": "Ayra Starr",
+    "snapshot_date": "2024-05-20"
+  },
+  {
+    "spotify_id": "28drn6tQo95MRvO0jQEo5C",
+    "name": "Type Shit",
+    "artists": "Future",
+    "collab": "Metro Boomin",
+    "snapshot_date": "2024-05-17"
+  },
+  {
+    "spotify_id": "28drn6tQo95MRvO0jQEo5C",
+    "name": "Type Shit",
+    "artists": "Future",
+    "collab": "Travis Scott",
+    "snapshot_date": "2024-05-17"
+  },
+  {
+    "spotify_id": "28drn6tQo95MRvO0jQEo5C",
+    "name": "Type Shit",
+    "artists": "Future",
+    "collab": "Playboi Carti",
+    "snapshot_date": "2024-05-17"
+  },
+  {
+    "spotify_id": "5oYVxFt2k4SkVp6wzVsFWN",
+    "name": "Ride Or Die, Pt. 2 (with Villano Antillano & Tokischa)",
+    "artists": "Sevdaliz",
+    "collab": "Villano Antillano",
+    "snapshot_date": "2024-05-11"
+  },
+  {
+    "spotify_id": "5oYVxFt2k4SkVp6wzVsFWN",
+    "name": "Ride Or Die, Pt. 2 (with Villano Antillano & Tokischa)",
+    "artists": "Sevdaliza",
+    "collab": "Tokischa",
+    "snapshot_date": "2024-05-11"
+  },
+  {
+    "spotify_id": "3ZVFcD8Wlw9T9klGqmJf9F",
+    "name": "Florida!!! (feat. Florence + The Machine)",
+    "artists": "Taylor Swift",
+    "collab": "Florence + The Machine",
+    "snapshot_date": "2024-05-11"
+  },
+  {
+    "spotify_id": "3w0w2T288dec0mgeZZqoNN",
+    "name": "CARNIVAL",
+    "artists": "¥$",
+    "collab": "Kanye West",
+    "snapshot_date": "2024-05-10"
+  },
+  {
+    "spotify_id": "3w0w2T288dec0mgeZZqoNN",
+    "name": "CARNIVAL",
+    "artists": "¥$",
+    "collab": "Ty Dolla $ign",
+    "snapshot_date": "2024-05-10"
+  },
+  {
+    "spotify_id": "3w0w2T288dec0mgeZZqoNN",
+    "name": "CARNIVAL",
+    "artists": "¥$",
+    "collab": "Rich The Kid",
+    "snapshot_date": "2024-05-10"
+  },
+  {
+    "spotify_id": "3w0w2T288dec0mgeZZqoNN",
+    "name": "CARNIVAL",
+    "artists": "¥$",
+    "collab": "Playboi Carti",
+    "snapshot_date": "2024-05-10"
+  },
+  {
+    "spotify_id": "2DbV9TSdeGr5FobCFDRzvq",
+    "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
+    "artists": "Bizarrap",
+    "collab": "Natanael Cano",
+    "snapshot_date": "2024-04-19"
+  },
+  {
+    "spotify_id": "4KULAymBBJcPRpk1yO4dOG",
+    "name": "I Remember Everything (feat. Kacey Musgraves)",
+    "artists": "Zach Bryan",
+    "collab": "Kacey Musgraves",
+    "snapshot_date": "2024-04-19"
+  },
+  {
+    "spotify_id": "7iQXYTyuG13aoeHxGG28Nh",
+    "name": "PERRO NEGRO",
+    "artists": "Bad Bunny",
+    "collab": "Feid",
+    "snapshot_date": "2024-04-19"
+  },
+  {
+    "spotify_id": "7sVbKoBdhXtYCEOO6qC1SN",
+    "name": "We Still Don't Trust You",
+    "artists": "Future",
+    "collab": "Metro Boomin",
+    "snapshot_date": "2024-04-16"
+  },
+  {
+    "spotify_id": "7sVbKoBdhXtYCEOO6qC1SN",
+    "name": "We Still Don't Trust You",
+    "artists": "Future",
+    "collab": "The Weeknd",
+    "snapshot_date": "2024-04-16"
+  },
+  {
+    "spotify_id": "7EWtB4NKYY3NqBl31PVip9",
+    "name": "LA PEOPLE II",
+    "artists": "Peso Pluma",
+    "collab": "Tito Double P",
+    "snapshot_date": "2024-04-15"
+  },
+  {
+    "spotify_id": "7EWtB4NKYY3NqBl31PVip9",
+    "name": "LA PEOPLE II",
+    "artists": "Peso Pluma",
+    "collab": "Joel De La P",
+    "snapshot_date": "2024-04-15"
+  },
+  {
+    "spotify_id": "0SdpzQRdK8BdSV57rn6AZZ",
+    "name": "Drink N Dance",
+    "artists": "Future",
+    "collab": "Metro Boomin",
+    "snapshot_date": "2024-04-13"
+  },
+  {
+    "spotify_id": "59NraMJsLaMCVtwXTSia8i",
+    "name": "Prada",
+    "artists": "cassö",
+    "collab": "RAYE",
+    "snapshot_date": "2024-04-13"
+  },
+  {
+    "spotify_id": "59NraMJsLaMCVtwXTSia8i",
+    "name": "Prada",
+    "artists": "cassö",
+    "collab": "D-Block Europe",
+    "snapshot_date": "2024-04-13"
+  },
+  {
+    "spotify_id": "2BOpFmZQ89Rjm2wvmud1MU",
+    "name": "Out Of My Hands",
+    "artists": "Future",
+    "collab": "Metro Boomin",
+    "snapshot_date": "2024-04-13"
+  },
+  {
+    "spotify_id": "1VNWdmXSbaNrnWod10WIL0",
+    "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+    "artists": "The Weeknd",
+    "collab": "JENNIE",
+    "snapshot_date": "2024-04-09"
+  },
+  {
+    "spotify_id": "1VNWdmXSbaNrnWod10WIL0",
+    "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+    "artists": "The Weeknd",
+    "collab": "Lily-Rose Depp",
+    "snapshot_date": "2024-04-09"
+  },
+  {
+    "spotify_id": "6zuPQl2RVqQ4y5nAH61CFC",
+    "name": "II MOST WANTED",
+    "artists": "Beyoncé",
+    "collab": "Miley Cyrus",
+    "snapshot_date": "2024-04-08"
+  },
+  {
+    "spotify_id": "4bw8mcDUSRWfQo63ZTYRnU",
+    "name": "Según Quién",
+    "artists": "Maluma",
+    "collab": "Carin Leon",
+    "snapshot_date": "2024-04-08"
+  },
+  {
+    "spotify_id": "2w5BtuWXISpB6NM4xPoeiR",
+    "name": "Pricey (feat. Ari Lennox, Young Dro & Gucci Mane)",
+    "artists": "J. Cole",
+    "collab": "Ari Lennox",
+    "snapshot_date": "2024-04-06"
+  },
+  {
+    "spotify_id": "2w5BtuWXISpB6NM4xPoeiR",
+    "name": "Pricey (feat. Ari Lennox, Young Dro & Gucci Mane)",
+    "artists": "J. Cole",
+    "collab": "Young Dro",
+    "snapshot_date": "2024-04-06"
+  },
+  {
+    "spotify_id": "2w5BtuWXISpB6NM4xPoeiR",
+    "name": "Pricey (feat. Ari Lennox, Young Dro & Gucci Mane)",
+    "artists": "J. Cole",
+    "collab": "Gucci Mane",
+    "snapshot_date": "2024-04-06"
+  },
+  {
+    "spotify_id": "5RMTsrJkrtumtiIZjy7dL6",
+    "name": "H.Y.B. (feat. Bas & Central Cee)",
+    "artists": "J. Cole",
+    "collab": "Bas",
+    "snapshot_date": "2024-04-06"
+  },
+  {
+    "spotify_id": "5RMTsrJkrtumtiIZjy7dL6",
+    "name": "H.Y.B. (feat. Bas & Central Cee)",
+    "artists": "J. Cole",
+    "collab": "Central Cee",
+    "snapshot_date": "2024-04-06"
+  },
+  {
+    "spotify_id": "4J9WveqdoaEUQu1aeoSH9X",
+    "name": "Ready ‘24 (feat. Cam’ron)",
+    "artists": "J. Cole",
+    "collab": "Cam'ron",
+    "snapshot_date": "2024-04-06"
+  },
+  {
+    "spotify_id": "0hKtu53OlIFXVuYkZwcn3o",
+    "name": "Cinderella",
+    "artists": "Future",
+    "collab": "Metro Boomin",
+    "snapshot_date": "2024-04-06"
+  },
+  {
+    "spotify_id": "0hKtu53OlIFXVuYkZwcn3o",
+    "name": "Cinderella",
+    "artists": "Future",
+    "collab": "Travis Scott",
+    "snapshot_date": "2024-04-06"
+  },
+  {
+    "spotify_id": "61OsemtnuPJ5R0LMEkw60S",
+    "name": "Entre las de 20",
+    "artists": "Bizarrap",
+    "collab": "Natanael Cano",
+    "snapshot_date": "2024-04-05"
+  },
+  {
+    "spotify_id": "2UDARQiksl207HcSduDpov",
+    "name": "LEVII'S JEANS",
+    "artists": "Beyoncé",
+    "collab": "Post Malone",
+    "snapshot_date": "2024-04-01"
+  },
+  {
+    "spotify_id": "3LJeR75SmszOUSvE1qNZDF",
+    "name": "BLACKBIIRD",
+    "artists": "Beyoncé",
+    "collab": "Tanner Adell",
+    "snapshot_date": "2024-03-31"
+  },
+  {
+    "spotify_id": "3LJeR75SmszOUSvE1qNZDF",
+    "name": "BLACKBIIRD",
+    "artists": "Beyoncé",
+    "collab": "Brittney Spencer",
+    "snapshot_date": "2024-03-31"
+  },
+  {
+    "spotify_id": "3LJeR75SmszOUSvE1qNZDF",
+    "name": "BLACKBIIRD",
+    "artists": "Beyoncé",
+    "collab": "Tiera Kennedy",
+    "snapshot_date": "2024-03-31"
+  },
+  {
+    "spotify_id": "3LJeR75SmszOUSvE1qNZDF",
+    "name": "BLACKBIIRD",
+    "artists": "Beyoncé",
+    "collab": "Reyna Roberts",
+    "snapshot_date": "2024-03-31"
+  },
+  {
+    "spotify_id": "5UcUppRaEIBMIHXiUFl7LI",
+    "name": "SPAGHETTII",
+    "artists": "Beyoncé",
+    "collab": "Linda Martell",
+    "snapshot_date": "2024-03-31"
+  },
+  {
+    "spotify_id": "5UcUppRaEIBMIHXiUFl7LI",
+    "name": "SPAGHETTII",
+    "artists": "Beyoncé",
+    "collab": "Shaboozey",
+    "snapshot_date": "2024-03-31"
+  },
+  {
+    "spotify_id": "3koE8h6ORJ28j0xEPO4n6K",
+    "name": "PROTECTOR",
+    "artists": "Beyoncé",
+    "collab": "Rumi Carter",
+    "snapshot_date": "2024-03-30"
+  },
+  {
+    "spotify_id": "76OC0zMt7wqgys9BpPfLag",
+    "name": "SMOKE HOUR ★ WILLIE NELSON",
+    "artists": "Beyoncé",
+    "collab": "Willie Nelson",
+    "snapshot_date": "2024-03-30"
+  },
+  {
+    "spotify_id": "11sirgYaEutV40tkvgpHN6",
+    "name": "NEURON (with Gaeko & YOON MIRAE)",
+    "artists": "j-hope",
+    "collab": "Gaeko",
+    "snapshot_date": "2024-03-30"
+  },
+  {
+    "spotify_id": "11sirgYaEutV40tkvgpHN6",
+    "name": "NEURON (with Gaeko & YOON MIRAE)",
+    "artists": "j-hope",
+    "collab": "YOON MIRAE",
+    "snapshot_date": "2024-03-30"
+  },
+  {
+    "spotify_id": "51D9PHMiMxuRGtGz61F4QN",
+    "name": "JUST FOR FUN",
+    "artists": "Beyoncé",
+    "collab": "Willie Jones",
+    "snapshot_date": "2024-03-30"
+  },
+  {
+    "spotify_id": "1pnDvUuAEd6z8bKEsbAjk1",
+    "name": "We Don't Trust You",
+    "artists": "Future",
+    "collab": "Metro Boomin",
+    "snapshot_date": "2024-03-29"
+  },
+  {
+    "spotify_id": "3OxL6MuctgZp1e0zxoAZhH",
+    "name": "Young Metro",
+    "artists": "Future",
+    "collab": "Metro Boomin",
+    "snapshot_date": "2024-03-27"
+  },
+  {
+    "spotify_id": "3OxL6MuctgZp1e0zxoAZhH",
+    "name": "Young Metro",
+    "artists": "Future",
+    "collab": "The Weeknd",
+    "snapshot_date": "2024-03-27"
+  },
+  {
+    "spotify_id": "70ToiXlzl8N1EgfC07ZcZE",
+    "name": "Ice Attack",
+    "artists": "Future",
+    "collab": "Metro Boomin",
+    "snapshot_date": "2024-03-24"
+  },
+  {
+    "spotify_id": "57ELn9TPDIhrpl0dasS465",
+    "name": "Claustrophobic",
+    "artists": "Future",
+    "collab": "Metro Boomin",
+    "snapshot_date": "2024-03-23"
+  },
+  {
+    "spotify_id": "2GLWhy9iiO1wrLUF5l4FtJ",
+    "name": "Slimed In",
+    "artists": "Future",
+    "collab": "Metro Boomin",
+    "snapshot_date": "2024-03-23"
+  },
+  {
+    "spotify_id": "7pBcryEKcUEaWHwAu1wUyP",
+    "name": "Magic Don Juan (Princess Diana)",
+    "artists": "Future",
+    "collab": "Metro Boomin",
+    "snapshot_date": "2024-03-23"
+  },
+  {
+    "spotify_id": "4q7y1JFDBJSBSLqXVgcI51",
+    "name": "Runnin Outta Time",
+    "artists": "Future",
+    "collab": "Metro Boomin",
+    "snapshot_date": "2024-03-23"
+  },
+  {
+    "spotify_id": "28xOPIPw0joNPwYd0asIT5",
+    "name": "Fried (She a Vibe)",
+    "artists": "Future",
+    "collab": "Metro Boomin",
+    "snapshot_date": "2024-03-23"
+  },
+  {
+    "spotify_id": "7GUhiAHLoVy1V8ucQuZ3CB",
+    "name": "Popular (with Playboi Carti & Madonna)",
+    "artists": "The Weeknd",
+    "collab": "Playboi Carti",
+    "snapshot_date": "2024-03-22"
+  },
+  {
+    "spotify_id": "7GUhiAHLoVy1V8ucQuZ3CB",
+    "name": "Popular (with Playboi Carti & Madonna)",
+    "artists": "The Weeknd",
+    "collab": "Madonna",
+    "snapshot_date": "2024-03-22"
+  },
+  {
+    "spotify_id": "6uIIdjYTxxpWOyWuVXrKQO",
+    "name": "Que Onda",
+    "artists": "Calle 24",
+    "collab": "Chino Pacas",
+    "snapshot_date": "2024-03-18"
+  },
+  {
+    "spotify_id": "6uIIdjYTxxpWOyWuVXrKQO",
+    "name": "Que Onda",
+    "artists": "Calle 24",
+    "collab": "Fuerza Regida",
+    "snapshot_date": "2024-03-18"
+  },
+  {
+    "spotify_id": "4mHM5d2fK3n8xgymjf92w2",
+    "name": "ordinary things (feat. Nonna)",
+    "artists": "Ariana Grande",
+    "collab": "Nonna",
+    "snapshot_date": "2024-03-13"
+  },
+  {
+    "spotify_id": "3QS9ZCtoSCJhmaJ7QNXSAS",
+    "name": "act ii: date @ 8 (feat. Drake) - remix",
+    "artists": "4batz",
+    "collab": "Drake",
+    "snapshot_date": "2024-03-10"
+  },
+  {
+    "spotify_id": "0fCINfrtQdkFSj6enmeEDt",
+    "name": "ordinary things (feat. Nonna)",
+    "artists": "Ariana Grande",
+    "collab": "Nonna",
+    "snapshot_date": "2024-03-10"
+  },
+  {
+    "spotify_id": "4UkUxO2WlKLc0Q1iEutGGh",
+    "name": "CONTIGO (with Tiësto)",
+    "artists": "KAROL G",
+    "collab": "Tiësto",
+    "snapshot_date": "2024-03-09"
+  },
+  {
+    "spotify_id": "04CyMEHliadfQWMUJb1w99",
+    "name": "BURN",
+    "artists": "¥$",
+    "collab": "Kanye West",
+    "snapshot_date": "2024-03-07"
+  },
+  {
+    "spotify_id": "04CyMEHliadfQWMUJb1w99",
+    "name": "BURN",
+    "artists": "¥$",
+    "collab": "Ty Dolla $ign",
+    "snapshot_date": "2024-03-07"
+  },
+  {
+    "spotify_id": "6XaJfhwof7qIgbbXO5tIQI",
+    "name": "Igual Que Un Ángel (with Peso Pluma)",
+    "artists": "Kali Uchis",
+    "collab": "Peso Pluma",
+    "snapshot_date": "2024-03-07"
+  },
+  {
+    "spotify_id": "05WVKTdZhlIMX4qqMLuo0f",
+    "name": "BELLAKEO",
+    "artists": "Peso Pluma",
+    "collab": "Anitta",
+    "snapshot_date": "2024-03-06"
+  },
+  {
+    "spotify_id": "3QQAeMQbbjZXVFbF8DgFWT",
+    "name": "FIRST LOVE",
+    "artists": "Oscar Ortiz",
+    "collab": "Edgardo Nuñez",
+    "snapshot_date": "2024-03-04"
+  },
+  {
+    "spotify_id": "6VciS3dRMpZhJiDxT8ArFi",
+    "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
+    "artists": "Bizarrap",
+    "collab": "Young Miko",
+    "snapshot_date": "2024-02-19"
+  },
+  {
+    "spotify_id": "5tEaVciE2GnR28aN6W9cLS",
+    "name": "FUK SUMN",
+    "artists": "¥$",
+    "collab": "Kanye West",
+    "snapshot_date": "2024-02-19"
+  },
+  {
+    "spotify_id": "5tEaVciE2GnR28aN6W9cLS",
+    "name": "FUK SUMN",
+    "artists": "¥$",
+    "collab": "Ty Dolla $ign",
+    "snapshot_date": "2024-02-19"
+  },
+  {
+    "spotify_id": "1icgLGTpX2fQXKRe4D7w2b",
+    "name": "BACK TO ME",
+    "artists": "¥$",
+    "collab": "Kanye West",
+    "snapshot_date": "2024-02-18"
+  },
+  {
+    "spotify_id": "1icgLGTpX2fQXKRe4D7w2b",
+    "name": "BACK TO ME",
+    "artists": "¥$",
+    "collab": "Ty Dolla $ign",
+    "snapshot_date": "2024-02-18"
+  },
+  {
+    "spotify_id": "347AQK5Lyhn6RvB8tBGYxt",
+    "name": "STARS",
+    "artists": "¥$",
+    "collab": "Kanye West",
+    "snapshot_date": "2024-02-17"
+  },
+  {
+    "spotify_id": "347AQK5Lyhn6RvB8tBGYxt",
+    "name": "STARS",
+    "artists": "¥$",
+    "collab": "Ty Dolla $ign",
+    "snapshot_date": "2024-02-17"
+  },
+  {
+    "spotify_id": "4m4BHvDfzIgj5LbQLuFiIp",
+    "name": "CARNIVAL",
+    "artists": "Kanye West",
+    "collab": "Ty Dolla $ign",
+    "snapshot_date": "2024-02-16"
+  },
+  {
+    "spotify_id": "4E3XDKil4ElJt6sXuz5cc6",
+    "name": "BURN",
+    "artists": "Kanye West",
+    "collab": "Ty Dolla $ign",
+    "snapshot_date": "2024-02-16"
+  },
+  {
+    "spotify_id": "5rlXuCLnMdfo85079qXHoz",
+    "name": "FUK SUMN",
+    "artists": "Kanye West",
+    "collab": "Ty Dolla $ign",
+    "snapshot_date": "2024-02-16"
+  },
+  {
+    "spotify_id": "0Tgm7wkLb0AfAHAZDschvD",
+    "name": "BACK TO ME",
+    "artists": "Kanye West",
+    "collab": "Ty Dolla $ign",
+    "snapshot_date": "2024-02-16"
+  },
+  {
+    "spotify_id": "6OON4kMjTFqARMFrRbmlwy",
+    "name": "STARS",
+    "artists": "Kanye West",
+    "collab": "Ty Dolla $ign",
+    "snapshot_date": "2024-02-16"
+  },
+  {
+    "spotify_id": "3qnbLYCLzKvGIQXFyopS2H",
+    "name": "TALKING",
+    "artists": "Kanye West",
+    "collab": "Ty Dolla $ign",
+    "snapshot_date": "2024-02-16"
+  },
+  {
+    "spotify_id": "4YSa8VQxjzsski1DOsvkHH",
+    "name": "DO IT",
+    "artists": "Kanye West",
+    "collab": "Ty Dolla $ign",
+    "snapshot_date": "2024-02-16"
+  },
+  {
+    "spotify_id": "1tz4np70ZKhzaXjdgl0J8i",
+    "name": "PAID",
+    "artists": "Kanye West",
+    "collab": "Ty Dolla $ign",
+    "snapshot_date": "2024-02-15"
+  },
+  {
+    "spotify_id": "3IoAMvGFYzM05B64h7qmdf",
+    "name": "PAPERWORK",
+    "artists": "Kanye West",
+    "collab": "Ty Dolla $ign",
+    "snapshot_date": "2024-02-15"
+  },
+  {
+    "spotify_id": "3aZSvXuZt8ymQeixzFQM9W",
+    "name": "KEYS TO MY LIFE",
+    "artists": "Kanye West",
+    "collab": "Ty Dolla $ign",
+    "snapshot_date": "2024-02-15"
+  },
+  {
+    "spotify_id": "4202KkXGtULRsbRocWSw09",
+    "name": "VULTURES",
+    "artists": "Kanye West",
+    "collab": "Ty Dolla $ign",
+    "snapshot_date": "2024-02-15"
+  },
+  {
+    "spotify_id": "5rb9QrpfcKFHM1EUbSIurX",
+    "name": "Yeah! (feat. Lil Jon & Ludacris)",
+    "artists": "USHER",
+    "collab": "Lil Jon",
+    "snapshot_date": "2024-02-15"
+  },
+  {
+    "spotify_id": "5rb9QrpfcKFHM1EUbSIurX",
+    "name": "Yeah! (feat. Lil Jon & Ludacris)",
+    "artists": "USHER",
+    "collab": "Ludacris",
+    "snapshot_date": "2024-02-15"
+  },
+  {
+    "spotify_id": "7DPUuTaTZCtQ6o4Xx00qzT",
+    "name": "BEG FORGIVENESS",
+    "artists": "Kanye West",
+    "collab": "Ty Dolla $ign",
+    "snapshot_date": "2024-02-14"
+  },
+  {
+    "spotify_id": "71MzcOebEC5KoWBbzvFPkj",
+    "name": "HOODRAT",
+    "artists": "Kanye West",
+    "collab": "Ty Dolla $ign",
+    "snapshot_date": "2024-02-14"
+  },
+  {
+    "spotify_id": "1ty0at2tUKqMGTyYbJ43eL",
+    "name": "PROBLEMATIC",
+    "artists": "Kanye West",
+    "collab": "Ty Dolla $ign",
+    "snapshot_date": "2024-02-13"
+  },
+  {
+    "spotify_id": "6soQZdONN0ZsQ9hZ6Pkef4",
+    "name": "GOOD (DON'T DIE)",
+    "artists": "Kanye West",
+    "collab": "Ty Dolla $ign",
+    "snapshot_date": "2024-02-13"
+  },
+  {
+    "spotify_id": "6eJUG282cUKuIoa72sEsqO",
+    "name": "Macetando",
+    "artists": "Ivete Sangalo",
+    "collab": "LUDMILLA",
+    "snapshot_date": "2024-02-12"
+  },
+  {
+    "spotify_id": "6CvTEtGagmzQvkUzzyKR9k",
+    "name": "HARLEY QUINN",
+    "artists": "Fuerza Regida",
+    "collab": "Marshmello",
+    "snapshot_date": "2024-02-12"
+  },
+  {
+    "spotify_id": "1yeB8MUNeLo9Ek1UEpsyz6",
+    "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
+    "artists": "Drake",
+    "collab": "Sexyy Red",
+    "snapshot_date": "2024-02-11"
+  },
+  {
+    "spotify_id": "1yeB8MUNeLo9Ek1UEpsyz6",
+    "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
+    "artists": "Drake",
+    "collab": "SZA",
+    "snapshot_date": "2024-02-11"
+  },
+  {
+    "spotify_id": "6WzRpISELf3YglGAh7TXcG",
+    "name": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
+    "artists": "The Weeknd",
+    "collab": "Playboi Carti",
+    "snapshot_date": "2024-02-10"
+  },
+  {
+    "spotify_id": "6WzRpISELf3YglGAh7TXcG",
+    "name": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
+    "artists": "The Weeknd",
+    "collab": "Madonna",
+    "snapshot_date": "2024-02-10"
+  },
+  {
+    "spotify_id": "1udwFobQ1JoOdWPQrp2b6u",
+    "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
+    "artists": "JID",
+    "collab": "21 Savage",
+    "snapshot_date": "2024-02-03"
+  },
+  {
+    "spotify_id": "1udwFobQ1JoOdWPQrp2b6u",
+    "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
+    "artists": "JID",
+    "collab": "Baby Tate",
+    "snapshot_date": "2024-02-03"
+  },
+  {
+    "spotify_id": "0O3U5iwTbiXCREMkvotJuN",
+    "name": "EL AMOR DE SU VIDA",
+    "artists": "Grupo Frontera",
+    "collab": "Grupo Firme",
+    "snapshot_date": "2024-01-30"
+  },
+  {
+    "spotify_id": "2yUzr8Sr6ldG8vmHhZwTnz",
+    "name": "née-nah",
+    "artists": "21 Savage",
+    "collab": "Travis Scott",
+    "snapshot_date": "2024-01-24"
+  },
+  {
+    "spotify_id": "2yUzr8Sr6ldG8vmHhZwTnz",
+    "name": "née-nah",
+    "artists": "21 Savage",
+    "collab": "Metro Boomin",
+    "snapshot_date": "2024-01-24"
+  },
+  {
+    "spotify_id": "7rbjz4itTy3a6c6nBhKOh0",
+    "name": "Daylight",
+    "artists": "BERKO CHAMP",
+    "collab": "LEXMENDY",
+    "snapshot_date": "2024-01-23"
+  },
+  {
+    "spotify_id": "7rbjz4itTy3a6c6nBhKOh0",
+    "name": "Daylight",
+    "artists": "BERKO CHAMP",
+    "collab": "citosxd",
+    "snapshot_date": "2024-01-23"
+  },
+  {
+    "spotify_id": "6ED7qim1NAX1HjNU8039WS",
+    "name": "Alucin",
+    "artists": "Eugenio Esquivel",
+    "collab": "Grupo Marca Registrada",
+    "snapshot_date": "2024-01-22"
+  },
+  {
+    "spotify_id": "6ED7qim1NAX1HjNU8039WS",
+    "name": "Alucin",
+    "artists": "Eugenio Esquivel",
+    "collab": "Sebastian Esquivel",
+    "snapshot_date": "2024-01-22"
+  },
+  {
+    "spotify_id": "6x9pCndnXEoea0CMcfjs9W",
+    "name": "n.h.i.e.",
+    "artists": "21 Savage",
+    "collab": "Doja Cat",
+    "snapshot_date": "2024-01-21"
+  },
+  {
+    "spotify_id": "47yD0e9MCRIB8dgUXPfyW3",
+    "name": "pop ur shit",
+    "artists": "21 Savage",
+    "collab": "Young Thug",
+    "snapshot_date": "2024-01-15"
+  },
+  {
+    "spotify_id": "47yD0e9MCRIB8dgUXPfyW3",
+    "name": "pop ur shit",
+    "artists": "21 Savage",
+    "collab": "Metro Boomin",
+    "snapshot_date": "2024-01-15"
+  },
+  {
+    "spotify_id": "0fyP96TikhD9sM4eKqw5Yp",
+    "name": "dangerous",
+    "artists": "21 Savage",
+    "collab": "Lil Durk",
+    "snapshot_date": "2024-01-14"
+  },
+  {
+    "spotify_id": "0fyP96TikhD9sM4eKqw5Yp",
+    "name": "dangerous",
+    "artists": "21 Savage",
+    "collab": "Metro Boomin",
+    "snapshot_date": "2024-01-14"
+  },
+  {
+    "spotify_id": "4Xzq2WibDHR5Eufi21HlEZ",
+    "name": "should've wore a bonnet",
+    "artists": "21 Savage",
+    "collab": "Brent Faiyaz",
+    "snapshot_date": "2024-01-14"
+  },
+  {
+    "spotify_id": "01qFKNWq73UfEslI0GvumE",
+    "name": "3D (feat. Jack Harlow)",
+    "artists": "Jung Kook",
+    "collab": "Jack Harlow",
+    "snapshot_date": "2024-01-13"
+  },
+  {
+    "spotify_id": "2OWv3lRR8PtOVuHWzQNRs2",
+    "name": "Rompe La Dompe",
+    "artists": "Peso Pluma",
+    "collab": "Junior H",
+    "snapshot_date": "2024-01-09"
+  },
+  {
+    "spotify_id": "2OWv3lRR8PtOVuHWzQNRs2",
+    "name": "Rompe La Dompe",
+    "artists": "Peso Pluma",
+    "collab": "Oscar Maydon",
+    "snapshot_date": "2024-01-09"
+  },
+  {
+    "spotify_id": "2IDf0IZ9dfw0uDYV2n1bJc",
+    "name": "DEJA VU",
+    "artists": "Luan Santana",
+    "collab": "Ana Castela",
+    "snapshot_date": "2024-01-04"
+  },
+  {
+    "spotify_id": "7mXuWTczZNxG5EDcjFEuJR",
+    "name": "LADY GAGA",
+    "artists": "Peso Pluma",
+    "collab": "Gabito Ballesteros",
+    "snapshot_date": "2024-01-03"
+  },
+  {
+    "spotify_id": "7mXuWTczZNxG5EDcjFEuJR",
+    "name": "LADY GAGA",
+    "artists": "Peso Pluma",
+    "collab": "Junior H",
+    "snapshot_date": "2024-01-03"
+  },
+  {
+    "spotify_id": "4uUG5RXrOk84mYEfFvj3cK",
+    "name": "I'm Good (Blue)",
+    "artists": "David Guetta",
+    "collab": "Bebe Rexha",
+    "snapshot_date": "2024-01-03"
+  },
+  {
+    "spotify_id": "2yzshFeBIwH8tWIqHEFLeD",
+    "name": "un x100to",
+    "artists": "Grupo Frontera",
+    "collab": "Bad Bunny",
+    "snapshot_date": "2024-01-03"
+  },
+  {
+    "spotify_id": "1s7oOCT8vauUh01PbJD6ps",
+    "name": "Calm Down (with Selena Gomez)",
+    "artists": "Rema",
+    "collab": "Selena Gomez",
+    "snapshot_date": "2024-01-03"
+  },
+  {
+    "spotify_id": "1k255f17DRuRbGrfz5Ifmd",
+    "name": "wherever u r (ft. V of BTS)",
+    "artists": "UMI",
+    "collab": "V",
+    "snapshot_date": "2024-01-03"
+  },
+  {
+    "spotify_id": "6qn9YLKt13AGvpq9jfO8py",
+    "name": "We Found Love",
+    "artists": "Rihanna",
+    "collab": "Calvin Harris",
+    "snapshot_date": "2024-01-03"
+  },
+  {
+    "spotify_id": "3qQbCzHBycnDpGskqOWY0E",
+    "name": "Ella Baila Sola",
+    "artists": "Eslabon Armado",
+    "collab": "Peso Pluma",
+    "snapshot_date": "2024-01-03"
+  },
+  {
+    "spotify_id": "7rglLriMNBPAyuJOMGwi39",
+    "name": "Cold Heart - PNAU Remix",
+    "artists": "PNAU",
+    "collab": "Elton John",
+    "snapshot_date": "2024-01-02"
+  },
+  {
+    "spotify_id": "7rglLriMNBPAyuJOMGwi39",
+    "name": "Cold Heart - PNAU Remix",
+    "artists": "PNAU",
+    "collab": "Dua Lipa",
+    "snapshot_date": "2024-01-02"
+  }
+]
