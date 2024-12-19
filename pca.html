@@ -7,6 +7,8 @@
         <script type="text/javascript" src="js/d3.v7.min.js"></script>
         <!-- Link to your custom JavaScript file for the visualization -->
         <script type="text/javascript" src="js/pca.js"></script>
+        <script src="https://d3js.org/d3.v6.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js"></script>
         <style>
 
 body {
@@ -23,6 +25,21 @@ svg {
     font-size: 10px;
 }
 
+#chartContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around; 
+    height: 100vh;
+    margin: 40px 0;
+}
+
+#chartContainer > div {
+    width: 80%;
+    height: 500px; 
+    margin: 10px 0; 
+}
+
 /* General styling for visual elements */
 .visualization-element {
     stroke-width: 1.2px;
@@ -33,7 +50,14 @@ svg {
     </head>
 
     <body onload="initializeViz();">
-        <div id="visualization-container"></div>
+        <div id="chartContainer">
+            <div id="varianceLineChart"></div>
+            <div id="mainBarChart"></div>
+            <div id="scatterPlotContainer"></div>
+            <div id="varianceChartContainer"></div>
+            <div id="loadingsChartContainer"></div>
+        </div>
+        
     </body>
 
 </html>
