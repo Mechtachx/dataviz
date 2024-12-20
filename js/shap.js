@@ -1,9 +1,9 @@
 let ctx = {
-    WIDTH: 840,
+    WIDTH: 760,
     HEIGHT: 480,
 };
 
-const globalmargin = { top: 20, right: 60, bottom: 60, left: 60 };
+const globalmargin = { top: 20, right: 60, bottom: 60, left: 0 };
 
 function initializeViz() {
     console.log("hi");
@@ -93,7 +93,7 @@ function createSummaryPlotDistribution(data, divId, colorscale = [[0, 'rgb(54, 1
         },
         width: ctx.WIDTH,
         height: ctx.HEIGHT + 100,
-        margin: { t: 50, l: 150, r: 50, b: 50 }
+        margin: { t: 0, l: 150, r: 50, b: 50 }
     };
 
     // 绘制图表
@@ -232,7 +232,7 @@ function createForcePlot(data, divId) {
         barmode: 'relative', // 叠加条形图
         width: ctx.WIDTH,
         height: ctx.HEIGHT,
-        margin: { t: 50, l: 50, r: 50, b: 100 },
+        margin: { t: 0, l: 50, r: 50, b: 100 },
     };
 
     // 绘制图表
@@ -283,7 +283,7 @@ function showShapForFeature(data, col, divId, groupCount = 20) {
     });
 
     // 使用 ctx.WIDTH 和 ctx.HEIGHT
-    const margin = { top: 40, right: 20, bottom: 60, left: 60 };
+    const margin = { top: 40, right: 20, bottom: 60, left: 0 };
     const width = ctx.WIDTH - margin.left - margin.right;
     const height = ctx.HEIGHT - margin.top - margin.bottom;
 

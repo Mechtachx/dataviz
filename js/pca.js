@@ -1,5 +1,5 @@
 let ctx = {
-    WIDTH: 840,
+    WIDTH: 700,
     HEIGHT: 480,
 };
 

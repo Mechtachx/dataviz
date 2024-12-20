@@ -18,10 +18,10 @@ body {
     padding: 0;
 }
 
-/* Custom scrollbar styles for iframe content */
-::-webkit-scrollbar {
-        width: 10px;
-    }
+    /* Custom scrollbar styles for iframe content */
+    ::-webkit-scrollbar {
+            width: 10px;
+        }
 
     ::-webkit-scrollbar-track {
         background: #2c2c2c;
@@ -37,6 +37,7 @@ body {
 
     html, body {
         overflow-x: hidden; /* 防止页面横向滚动 */
+    
     }
 
 svg {
@@ -44,6 +45,8 @@ svg {
     margin: auto;
     font-family: sans-serif;
     font-size: 10px;
+    overflow: hidden; /* 防止页面横向滚动 */
+    
 }
 
 #chartContainer {
@@ -53,12 +56,14 @@ svg {
     justify-content: space-around; 
     height: 100vh;
     margin: 40px 0;
+
 }
 
 #chartContainer > div {
     width: 80%;
     height: 500px; 
     margin: 10px 0; 
+
 }
 
 /* General styling for visual elements */
