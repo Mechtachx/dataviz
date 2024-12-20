@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Spotify Top 50</title>
+        <!-- https://d3js.org/ -->
+        <script type="text/javascript" src="js/d3.v7.min.js"></script>
+        <!-- https://github.com/bgrins/TinyColor -->
+        <script type="text/javascript" src="js/spotify.js"></script>
+        <style>
+            /* Only one page, no scroll */
+            html, body, svg, iframe {
+                height: 100%;
+                margin: 0;
+                padding: 0;
+                overflow: hidden; /* Maintain no scroll */
+            }
+
+            body {
+                background-color: black;
+                color: #888;
+                font-family: 'Arial', sans-serif; /* Consistent font for the body */
+            }
+
+            /* Main layout adjustments */
+            .mainWrap {
+                display: flex;
+                height: 100%;
+                width: 100%;
+                margin-right: 0; /* Remove extra margin */
+                padding: 0;      /* Remove default padding */
+            }
+
+            .panel {
+                flex: 1;
+                display: flex;
+                width: 100%;
+                flex-direction: column;
+                padding: 32px; /* Consistent padding */
+                box-sizing: border-box; /* Include padding and border in the element's total width and height */
+                background-clip: content-box;
+            }
+
+            svg {
+                display: block;
+                margin: auto;
+                font-family: 'Arial', sans-serif;
+                font-size: 10px;
+                background-color: #333; /* Dark gray background */
+                border: none; /* No border */
+            }
+            .left {
+               
+                display: flex;
+                flex-direction: column;
+                gap: 32px;
+                height: 100%;
+                padding: 32px;   /* Consistent padding */
+                box-sizing: border-box; /* Include padding and border in the element's total width and height */
+            }
+
+            /* Manually set sizes for mapPart and timeSeries */
+            .left .mapPart {
+                width: 600px; /* Fixed width for the left panel */
+                height: 600px; /* Fixed height for mapPart */
+                margin: auto; /* Center this element horizontally */
+                background-color: #333; /* Dark gray background */
+                border: none; /* No border */
+            }
+
+            .left .timeSeries {
+                width: 600px; /* Fixed width for the left panel */
+                height: 200px; /* Fixed height for timeSeries */
+                margin: auto; /* Center this element horizontally */
+                background-color: #333; /* Dark gray background */
+                border: none; /* No border */
+            }
+            .right .controls {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                gap: 32px;
+                margin: 0 32px;
+                color: #888; /* Text color for buttons and selectors */
+            }
+
+            .right button, .right select {
+                width: 150px; 
+                background-color: #333; /* Dark gray background */
+                color: #ccc; /* Lighter text for better readability */
+                border: none; /* No border */
+            }
+
+            /* Specific element adjustments */
+            .right button:hover, .right select:hover {
+                background-color: #444; /* Slightly lighter gray for hover effect */
+                color: #ccc;
+            }
+
+            .right iframe {
+                width: 840px; /* Fixed width slightly less than the panel to fit padding */
+                height: 720px; /* Fixed height */
+                margin: auto; /* Center these elements */
+                border: none; /* No border */
+                background-color: #333; /* Dark gray background */
+            }
+
+        </style>
+    </head>
+
+    <body onload="createViz()">
+            <div class="mainWrap">
+                <!-- map and time? -->
+                <div class="panel left">
+                    <svg class="mapPart" id="svgMap"></svg>
+                    <svg class="timeSeries" id="svgTime"></svg>
+                </div>
+    
+                <!-- subpages -->
+                <div class="panel right">
+                    <button id="load-btn">Load Content</button>
+                    <!-- add subpage here ! -->
+                    <select id="select-option">
+                        <option value="shap.html">shap</option>
+                        <option value="pca.html">pca</option>
+                        <option value="collaborations.html">collaborations</option>
+                    </select>
+                    <iframe
+                        id="iframeDisplay"
+                        title="Inline Frame Example"
+                        src="contentTest.html">
+                    </iframe>
+                </div>
+            </div>
+    </body>
+
+</html>
