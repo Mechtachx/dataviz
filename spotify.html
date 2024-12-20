@@ -90,15 +90,25 @@
                 color: #888; /* Text color for buttons and selectors */
             }
 
-            .right button, .right select {
-                width: 150px; 
+            .controls {
+                display: flex; /* Flexbox layout for controls */
+                align-items: center; /* Vertically align items */
+                gap: 10px; /* Space between items */
+                margin: 0 32px; /* Horizontal margin for the container */
+            }
+
+            .controls button, .controls select {
+                width: 150px; /* Same width for button and selects */
                 background-color: #333; /* Dark gray background */
                 color: #ccc; /* Lighter text for better readability */
                 border: none; /* No border */
+                padding: 5px; /* Add some padding for better appearance */
+                font-size: 14px; /* Font size adjustment */
+                border-radius: 4px; /* Optional: Rounded corners */
             }
 
             /* Specific element adjustments */
-            .right button:hover, .right select:hover {
+            button:hover, select:hover {
                 background-color: #444; /* Slightly lighter gray for hover effect */
                 color: #ccc;
             }
@@ -136,16 +146,35 @@
                     <svg class="timeSeries" id="svgTime"></svg>
                 </div>
     
+                
                 <!-- subpages -->
                 <div class="panel right">
-                    <button id="load-btn">Load Content</button>
-                    <!-- add subpage here ! -->
-                    <select id="select-option">
-                        <option value="shap.html">shap</option>
-                        <option value="pca.html">pca</option>
-                        <option value="collaborations.html">collaborations</option>
-                    </select>
-                    
+                    <div class="controls">
+                        <select id="feature">
+                            <option value="popularity">Popularity</option>
+                            <option value="duration_ms">Duration</option>
+                            <option value="danceability">Danceability</option>
+                            <option value="energy">Energy</option>
+                            <option value="loudness">Loudness</option>
+                            <option value="speechiness">Speechiness</option>
+                            <option value="acousticness">Acousticness</option>
+                            <option value="instrumentalness">Instrumentalness</option>
+                            <option value="liveness">Liveness</option>
+                            <option value="valence">Valence</option>
+                            <option value="tempo">Tempo</option>
+                        </select>
+                        <button id="load-btn">Load Content</button>
+                        <select id="select-option">
+                            <option value="shap.html">shap</option>
+                            <option value="pca.html">pca</option>
+                            <option value="collaborations.html">collaborations</option>
+                        </select>
+                    </div>
+                    <iframe
+                        id="iframeDisplay"
+                        title="Inline Frame Example"
+                        src="shap.html">
+                    </iframe>
                 </div>
             </div>
     </body>

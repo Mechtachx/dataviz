@@ -77,9 +77,27 @@ function initInteraction() {
     const button = document.getElementById('load-btn');
     const select = document.getElementById('select-option');
 
+
+    // 获取 select 元素
+    const featureSelect = document.getElementById("feature");
+
+    if (!featureSelect) {
+        console.error("Element with ID 'feature' not found in DOM.");
+        return;
+    }
+
+    // 添加 change 事件监听器
+    featureSelect.addEventListener("change", function (event) {
+        const selectedValue = event.target.value; // 获取选中的值
+        console.log(`Selected feature: ${selectedValue}`);
+
+        // 调用自定义函数处理逻辑
+        onFeatureChange(selectedValue);
+    });
+
     button.addEventListener('click', () => {
         const selectedValue = select.value;
-        //console.log(selectedValue);
+        console.log(selectedValue);
         if (!selectedValue) {
             alert("Please select a valid option.");
             return;
@@ -87,9 +105,12 @@ function initInteraction() {
 
         loadPage(selectedValue);
     });
+
+    
 }
 
 function loadPage(url) {
+    console.log(url);
     const iframe = document.getElementById('iframeDisplay');
     iframe.src = url;
     
@@ -205,6 +226,15 @@ function onSliderMove(selectedMonth) {
     drawLineChart()
 }
 
+function onFeatureChange(selectedFeature) {
+    console.log(`Feature changed to: ${selectedFeature}`);
+    // 在这里添加你的逻辑
+    col = selectedFeature;
+
+    drawmap();
+    drawLineChart()
+}
+
 
 /* ------------ PART END ------------*/
 /* --------------------------------------------------------------------------------------*/
@@ -268,7 +298,7 @@ function drawLineChart() {
     }));
 
     // 打印结果以供调试
-    console.log("Global Data:", globalData);
+    //console.log("Global Data:", globalData);
 
     // 设置 SVG 尺寸和边距
     const margin = { top: 20, right: 30, bottom: 50, left: 50 };
@@ -331,7 +361,7 @@ function drawLineChart() {
         .attr("cy", d => yScale(d.col))
         .attr("r", 6)
         .attr("fill", d => {
-            console.log(time);
+            //console.log(time);
             return d.time === time ? "orange" : "lightgray"})
         .attr("opacity", d => (d.time === time ? 1 : 0.7));
 }
