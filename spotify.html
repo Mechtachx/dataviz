@@ -62,17 +62,23 @@
             /* Manually set sizes for mapPart and timeSeries */
             .left .mapPart {
                 width: 600px; /* Fixed width for the left panel */
-                height: 600px; /* Fixed height for mapPart */
+                height: 400px; /* Fixed height for mapPart */
                 margin: auto; /* Center this element horizontally */
-                background-color: #333; /* Dark gray background */
+                background-color: #000; /* Dark gray background */
                 border: none; /* No border */
             }
-
+            .left .timeline {
+                width: 600px; /* Fixed width for the timeline */
+                height: 100px; /* Fixed height for timeline */
+                margin: auto; /* Center horizontally */
+                background-color: #000; /* Slightly darker background */
+                border: none; /* No border */
+            }
             .left .timeSeries {
                 width: 600px; /* Fixed width for the left panel */
                 height: 200px; /* Fixed height for timeSeries */
                 margin: auto; /* Center this element horizontally */
-                background-color: #333; /* Dark gray background */
+                background-color: #000; /* Dark gray background */
                 border: none; /* No border */
             }
             .right .controls {
@@ -105,6 +111,19 @@
                 background-color: #333; /* Dark gray background */
             }
 
+        .countryArea {
+            fill: rgb(232, 232, 232);
+        }
+        .countryArea:hover {
+            opacity: 0.1;
+        }
+    
+        .countryBorder {
+            fill: none;
+            stroke-width: 1px;
+            stroke: rgb(70, 70, 70);
+        }   
+
         </style>
     </head>
 
@@ -113,6 +132,7 @@
                 <!-- map and time? -->
                 <div class="panel left">
                     <svg class="mapPart" id="svgMap"></svg>
+                    <svg class="timeline" id="timeline"></svg> 
                     <svg class="timeSeries" id="svgTime"></svg>
                 </div>
     
@@ -125,11 +145,7 @@
                         <option value="pca.html">pca</option>
                         <option value="collaborations.html">collaborations</option>
                     </select>
-                    <iframe
-                        id="iframeDisplay"
-                        title="Inline Frame Example"
-                        src="contentTest.html">
-                    </iframe>
+                    
                 </div>
             </div>
     </body>
